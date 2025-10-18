@@ -134,7 +134,7 @@ this blue theme dashboard  shows the  Country wise Covid-19 Details using differ
 
 ### **Preview of the Report**
 
-![First Power BI Report](Images/report1)  
+![First Power BI Report](Images/report1.png)  
 
 > Screenshot of the report showing basic visualizations and layout.
 
