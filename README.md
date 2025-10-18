@@ -142,5 +142,36 @@ this blue theme dashboard  shows the  Country wise Covid-19 Details using differ
 ### **Download Links**
 
 - **Dataset:** [Download sample dataset](Datasets/covid)  
-- **Power BI Report (.pbix):** [Download the report](Reports/report1.pbix)  
+- **Power BI Report (.pbix):** [Download the report](Reports/report1.pbix)
+
+--- 
+
+
+## these are some dashboard with Advancements
+
+In this dashboard i've used some Advance funcation , feature and filters like 
+
+**DAX Formulas to create a Measures and Calculated columns**  
+    
+**Filters like Page level , report level , drill through , drill down , slicers ,etc.**
+
+
+## About the Report
+
+this purple theme dashboard  shows the Student Placement analtsis dashboard using Dax Formulas , filters and different visuals you can see iamge below
+
+
+### **Preview of the Report**
+
+![First Power BI Report](Images/report2.png)  
+
+> Screenshot of the report showing basic visualizations and layout.
+
+
+### **Download Links**
+
+- **Dataset:** [Download sample dataset](Datasets/Placement)  
+- **Power BI Report (.pbix):** [Download the report](Reports/report2.pbix)  
+
+
 
