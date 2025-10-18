@@ -129,7 +129,7 @@ using sample data here we go with our first report you can also download it the 
 
 ## About the Report
 
-this report is shows the  Country wise Covid-19 Details using different visuals  Pie chart , column chart and line chart.
+this blue theme dashboard  shows the  Country wise Covid-19 Details using different visuals  Pie chart , column chart and line chart.
 
 
 ### **Preview of the Report**
