@@ -173,5 +173,22 @@ this purple theme dashboard  shows the Student Placement analtsis dashboard usin
 - **Dataset:** [Download sample dataset](Datasets/Placement)  
 - **Power BI Report (.pbix):** [Download the report](Reports/report2.pbix)  
 
+---
+## About the Report
+
+this report analysis the vehicle theft data and show into meaningful and interactive dashboard 
+
+
+### **Preview of the Report**
+
+![First Power BI Report](Images/report3.png)  
+
+> Screenshot of the report showing basic visualizations and layout.
+
+
+### **Download Links**
+
+- **Dataset:** [Download sample dataset](Datasets/Vehicle)  
+- **Power BI Report (.pbix):** [Download the report](Reports/report3.pbix)  
 
 
