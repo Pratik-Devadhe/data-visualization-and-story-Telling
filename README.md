@@ -127,6 +127,10 @@ Sharing your reports with stakeholders is the final step.
 
 using sample data here we go with our first report you can also download it the link is given below.
 
+## About the Report
+
+this report is shows the  Country wise Covid-19 Details using different visuals  Pie chart , column chart and line chart.
+
 
 ### **Preview of the Report**
 
@@ -138,5 +142,5 @@ using sample data here we go with our first report you can also download it the 
 ### **Download Links**
 
 - **Dataset:** [Download sample dataset](Datasets/covid)  
-- **Power BI Report (.pbix):** [Download the report](Reports/report.pbix)  
+- **Power BI Report (.pbix):** [Download the report](Reports/report1.pbix)  
 
