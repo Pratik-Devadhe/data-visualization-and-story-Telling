@@ -138,5 +138,5 @@ using sample data here we go with our first report you can also download it the 
 ### **Download Links**
 
 - **Dataset:** [Download sample dataset](Datasets/covid)  
-- **Power BI Report (.pbix):** [Download the report](Reports/MyFirstReport.pbix)  
+- **Power BI Report (.pbix):** [Download the report](Reports/report.pbix)  
 
