@@ -123,5 +123,20 @@ Sharing your reports with stakeholders is the final step.
 5. Set permissions and access levels as needed.
 
 ---
+## Creating Our First Report
 
+using sample data here we go with our first report you can also download it the link is given below.
+
+
+### **Preview of the Report**
+
+![First Power BI Report](Images/report1)  
+
+> Screenshot of the report showing basic visualizations and layout.
+
+
+### **Download Links**
+
+- **Dataset:** [Download sample dataset](Datasets/sample_data.csv)  
+- **Power BI Report (.pbix):** [Download the report](Reports/MyFirstReport.pbix)  
 
